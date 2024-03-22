@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Chest-Cancer-Classification-Project"
 AUTHOR_USER_NAME = "Shafique Naveed"
-SRC_REPO = "chest-cancer-classification"
+SRC_REPO = "chest_cancer_classification"
 AUTHOR_EMAIL = "shafiquenaveed00001@gmail.com"
 
 setuptools.setup(
